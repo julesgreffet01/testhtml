@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+	
+}
+h1{ color : white; background-color : blue; text-align : center; font-align : small-caps}
+p {color : white; }
+u {color : green; }
+	a {color : blue;text-decoration :overline underline;}
+li{color : orange ;}
+h2{color : orange;}
+td, th { border: 1px solid black; border-color : white;}
+table {border-collapse: collapse;color : white;}
+button{color : blue;}
